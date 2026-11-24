@@ -1,0 +1,14 @@
+{
+  "name": "bias-spotter",
+  "description": "Bias Spotter: a Claude skill that finds signs of cognitive biases in text.",
+  "owner": {
+    "name": "Udayan Banerji"
+  },
+  "plugins": [
+    {
+      "name": "bias-spotter",
+      "source": "./",
+      "description": "Analyze a piece of text for signs of cognitive biases, with quoted evidence, a confidence level, and a question that tests each finding."
+    }
+  ]
+}

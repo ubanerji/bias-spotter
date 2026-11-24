@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: balanced-decision-note
+expected_outcome: |
+  Recognizes the text as well-reasoned, reports few or no findings rather than inventing biases, and names what the text does well (acknowledged personal stake, sought dissent, pre-committed reversal criteria).

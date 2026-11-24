@@ -1,0 +1,17 @@
+{
+  "name": "bias-spotter",
+  "description": "Analyze a piece of text for signs of cognitive biases, with quoted evidence, a confidence level, and a question that tests each finding.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Udayan Banerji"
+  },
+  "license": "MIT",
+  "keywords": [
+    "cognitive-bias",
+    "critical-thinking",
+    "writing",
+    "reasoning"
+  ],
+  "repository": "https://github.com/ubanerji/bias-spotter",
+  "homepage": "https://github.com/ubanerji/bias-spotter"
+}

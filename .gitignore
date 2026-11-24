@@ -1,0 +1,5 @@
+.DS_Store
+*.skill
+evals/results/
+bias-spotter-workspace/
+bias-spotter-review.html

@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: course-sales-email
+expected_outcome: |
+  Identifies the email's techniques (scarcity/urgency, social proof, price anchoring, loss framing, single success story/survivorship, authority cues, commitment) as persuasion devices aimed at the reader rather than as the author's own biased reasoning, with exact quotes.
