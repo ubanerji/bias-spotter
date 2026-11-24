@@ -39,7 +39,7 @@ The skill carries a catalog of about 40 biases, each with the textual signals to
 
 ### Claude apps (web and desktop)
 
-Download `bias-spotter.skill` from the [Releases](../../releases) page and upload it in Settings, in the skills section.
+Download [bias-spotter.skill](https://github.com/ubanerji/bias-spotter/raw/main/bias-spotter.skill) and upload it in Settings, in the skills section.
 
 ## Limits
 
