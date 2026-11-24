@@ -51,6 +51,10 @@ Download [bias-spotter.skill](https://github.com/ubanerji/bias-spotter/raw/main/
 
 Issues and pull requests are welcome, especially texts where the skill over-flags or misses something obvious.
 
+## Releasing
+
+After changing the skill, run `scripts/release.sh` (optionally with `minor`, `major` or an exact version). It bumps the plugin version, rebuilds `bias-spotter.skill`, validates the plugin and makes a local commit. Installed plugins only pick up changes when the version number changes. Review the commit, then `git push`.
+
 ## License
 
 MIT
